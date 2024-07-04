@@ -12,7 +12,7 @@ fi
 printf "\033c"
 printf "${GREEN}╭────────────────────────────────────────────────────────────────────────────────╮${NC}\n"
 printf "${GREEN}│                                                                                │${NC}\n"
-printf "${GREEN}│                             Pterodactyl VPS EGG                                │${NC}\n"
+printf "${GREEN}│                             Zenix Host Free vps                                │${NC}\n"
 printf "${GREEN}│                                                                                │${NC}\n"
 printf "${GREEN}│                           ${RED}© 2021 - 2024 ysdragon${GREEN}                               │${NC}\n"
 printf "${GREEN}│                                                                                │${NC}\n"
